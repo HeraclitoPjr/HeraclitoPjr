@@ -1,8 +1,7 @@
 ## Olá, eu sou o Heráclito Pantoja Junior, estudante e entusiasta na TI.
 <div>
   <a href="https://github.com/heraclitopjr">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=heraclitopjr&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heraclitopjr&layout=compact&langs_count=7&theme=dracula"/>
+    <h1> Tecnologias utilizadas </h1>
  </div>
 </div>
 <div style="display: inline_block"><br>
