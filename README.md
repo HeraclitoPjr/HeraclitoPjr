@@ -1,7 +1,7 @@
 ## Olá, eu sou o Heráclito Pantoja Junior, estudante e entusiasta na TI.
 <div>
   <a href="https://github.com/heraclitopjr">
-    <h1> Tecnologias utilizadas </h1>
+    <h2> Tecnologias que utilizo atualmente </h2>
  </div>
 </div>
 <div style="display: inline_block"><br>
