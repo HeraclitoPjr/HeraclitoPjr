@@ -5,15 +5,11 @@
  </div>
 </div>
 <div style="display: inline_block"><br>
-  <img align="center" alt="Linguage-HTML" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Linguage-CSS" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Linguage-Java" height="60" widht="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg">
-  </div>
-  
-  ##
-  
-<div> 
-    <a href="https://www.linkedin.com/in/her%C3%A1clito-pantoja-jr-7235a4209/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-    <a href="mailto:juniorpantoja2301@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/heraclito_jr/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <img src="https://img.icons8.com/ios-filled/50/000000/html.png"/>
+  <img src="https://img.icons8.com/ios-filled/50/000000/css.png"/>
+  <img src="https://img.icons8.com/ios/50/000000/java-coffee-cup-logo--v2.png"/>
+  <img src="https://img.icons8.com/ios-filled/50/000000/javascript.png"/> <br />
+  <img src="https://img.icons8.com/ios-filled/50/000000/linkedin.png"/>
+  <a href="mailto:juniorpantoja2301@gmail.com"><img src="https://img.icons8.com/fluency/48/000000/gmail-new.png"/></a>
+  <a href="https://www.instagram.com/heraclito_jr/" target="_blank"><img src="https://img.icons8.com/ios/48/000000/instagram-new--v2.png"/></a>
 </div>
